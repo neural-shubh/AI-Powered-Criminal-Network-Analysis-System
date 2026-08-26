@@ -1,0 +1,41 @@
+location_id,state,city,latitude,longitude
+1,West Bengal,Kolkata,29.247873,91.785067
+2,Uttar Pradesh,Lucknow,32.799012,95.021756
+3,Uttar Pradesh,Lucknow,24.414237,72.688947
+4,Delhi,New Delhi,33.351056,75.57161
+5,Karnataka,Bengaluru,25.74131,73.417462
+6,Delhi,New Delhi,23.40024,89.326325
+7,Madhya Pradesh,Bhopal,22.614126,72.296239
+8,Delhi,New Delhi,13.50917,77.905252
+9,Maharashtra,Mumbai,21.306318,68.779231
+10,Telangana,Hyderabad,36.385155,89.591371
+11,Maharashtra,Mumbai,8.193526,87.2531
+12,Karnataka,Bengaluru,30.354196,73.187339
+13,Delhi,New Delhi,26.923669,71.0709
+14,Madhya Pradesh,Bhopal,13.267958,78.875069
+15,Telangana,Hyderabad,25.283951,94.480892
+16,Gujarat,Ahmedabad,31.406611,74.736935
+17,Rajasthan,Jaipur,14.275032,91.255078
+18,Telangana,Hyderabad,27.421585,75.474271
+19,West Bengal,Kolkata,23.028942,95.801213
+20,Maharashtra,Mumbai,36.413554,76.738474
+21,Maharashtra,Mumbai,12.357902,74.644276
+22,Telangana,Hyderabad,17.917039,79.194378
+23,Maharashtra,Mumbai,9.430257,88.638642
+24,Delhi,New Delhi,19.254913,91.173251
+25,Karnataka,Bengaluru,30.876037,90.399771
+26,Gujarat,Ahmedabad,14.245172,82.863178
+27,Delhi,New Delhi,21.942511,69.784226
+28,Rajasthan,Jaipur,17.447064,85.692583
+29,West Bengal,Kolkata,34.755521,83.944484
+30,Gujarat,Ahmedabad,30.296835,88.258294
+31,Telangana,Hyderabad,12.340125,82.351898
+32,Gujarat,Ahmedabad,14.688633,72.742748
+33,Uttar Pradesh,Lucknow,12.354192,70.627277
+34,Maharashtra,Mumbai,12.249705,87.072845
+35,Karnataka,Bengaluru,32.222633,95.080463
+36,Delhi,New Delhi,15.664082,89.750677
+37,Delhi,New Delhi,30.923145,95.688993
+38,West Bengal,Kolkata,13.27619,94.649105
+39,Karnataka,Bengaluru,8.790996,77.58351
+40,West Bengal,Kolkata,13.157717,84.577663

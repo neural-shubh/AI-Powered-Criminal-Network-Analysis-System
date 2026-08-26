@@ -1,0 +1,142 @@
+person_id,name,phone,aadhar,address,city,state,location_id,ring_id
+1,Advaith Misra,+91-8069191634,555095509009,"496
+Prakash Street",Mumbai,Maharashtra,34,0
+2,Rachita Lal,+91-9971616164,458275573842,"82/51, Sachar Circle",Lucknow,Uttar Pradesh,33,0
+3,Manbir Jha,+91-7290794975,605276013264,"550, Nori Chowk",New Delhi,Delhi,8,0
+4,Yashvi Sagar,+91-9697857211,729733742224,"H.No. 292, Chaudhary Road",New Delhi,Delhi,13,0
+5,Hitesh Gopal,+91-7579931191,461779012231,"895
+Kata Nagar",New Delhi,Delhi,13,0
+6,Xalak Kalita,+91-8255441457,688948940445,"H.No. 96, Dayal Circle",New Delhi,Delhi,37,1
+7,Nitesh Mitra,+91-9978052978,837752473413,"358, Dugar Path",Lucknow,Uttar Pradesh,33,1
+8,Ekiya Arya,+91-8116417307,571489525488,"H.No. 716, Apte Street",New Delhi,Delhi,4,1
+9,Tanveer Vala,+91-8563197532,670368348204,"90, Swamy Nagar",Lucknow,Uttar Pradesh,3,1
+10,Osha Jaggi,+91-9465509901,791951728777,"18/217
+Nayak Street",Bengaluru,Karnataka,35,1
+11,Samar Gade,+91-7670759517,798827960776,"H.No. 28, Venkatesh Zila",Bengaluru,Karnataka,5,2
+12,Manan Aggarwal,+91-8180815479,588536372925,"914
+Ravi Circle",Lucknow,Uttar Pradesh,3,2
+13,Triveni Saha,+91-8725680708,590945919218,"205, Goda Path",New Delhi,Delhi,24,2
+14,Pranav Gokhale,+91-8135334729,908793231555,"86, Dara Path",Kolkata,West Bengal,40,2
+15,Triveni Hayer,+91-9063325630,387979121937,"28/359, Dass Road",Ahmedabad,Gujarat,32,2
+16,Abha Sane,+91-8482070683,843038082667,"H.No. 88, Chokshi",Hyderabad,Telangana,15,
+17,Nachiket Prabhu,+91-7131447442,761901966288,"H.No. 75, Mohanty Marg",New Delhi,Delhi,6,
+18,Aishani Muni,+91-9106801613,397133720478,"04
+Balan Chowk",Ahmedabad,Gujarat,26,
+19,Hemani Deshpande,+91-8667642497,774634065565,"10/193, Swaminathan Marg",Mumbai,Maharashtra,21,1
+20,Anjali Palla,+91-7814851883,186588800714,"H.No. 56, Mitra Zila",New Delhi,Delhi,27,0
+21,Banjeet Saini,+91-8429504292,320865651434,"124, Natarajan Ganj",Hyderabad,Telangana,15,1
+22,Sai Atwal,+91-7135403839,530961428497,"H.No. 805, Nagarajan Marg",Lucknow,Uttar Pradesh,33,0
+23,Wyatt Chaudhry,+91-7427847656,265290259208,"934
+Walia",Ahmedabad,Gujarat,16,0
+24,Nathan Mander,+91-9447482040,493128479900,"H.No. 183, Thaman Circle",Jaipur,Rajasthan,17,
+25,Alexander Venkatesh,+91-7163264112,203473382476,"85/92, Sachdeva Chowk",Kolkata,West Bengal,19,2
+26,Aryan Prabhu,+91-9165524721,115135418214,"58, Badal",New Delhi,Delhi,36,
+27,Upma Sarma,+91-9527332478,458765573648,"H.No. 56, Dass Road",Hyderabad,Telangana,10,
+28,Dakshesh Choudhary,+91-8964838326,582816971954,"H.No. 192
+Behl Nagar",Mumbai,Maharashtra,11,
+29,Tarak Vohra,+91-8668311292,840252764180,"77, Sampath Nagar",Lucknow,Uttar Pradesh,2,2
+30,Tristan Narayan,+91-7073180014,616767190190,"98, Sinha Ganj",Bengaluru,Karnataka,39,
+31,Sathvik Kala,+91-8345278514,977846123299,"70/311, Das Circle",Mumbai,Maharashtra,21,
+32,Alka Keer,+91-9673745036,723013863419,"H.No. 37, Sekhon Path",New Delhi,Delhi,37,1
+33,Zaid Seshadri,+91-9640479702,135107552707,"08/85, Ratta Ganj",Bhopal,Madhya Pradesh,7,0
+34,Fitan Sama,+91-7929819720,205334392340,"H.No. 537
+Samra Road",Mumbai,Maharashtra,20,
+35,Onveer Kamdar,+91-7252935743,342336468695,"H.No. 92
+Varty Nagar",Hyderabad,Telangana,31,
+36,Arjun Srinivas,+91-7696344538,745890928819,"34/065
+Krishna Ganj",Hyderabad,Telangana,22,
+37,George Jani,+91-7774895479,331499096079,"00/29
+Deol",Hyderabad,Telangana,31,
+38,Tanay Dave,+91-9748177664,272717294993,"40/36
+Ratti Marg",New Delhi,Delhi,36,
+39,Ati Thakkar,+91-7062068790,313247737800,"17/72
+Batta Marg",Ahmedabad,Gujarat,30,
+40,Jagdish Lata,+91-7525317338,388168526810,"67
+Ramakrishnan Zila",New Delhi,Delhi,36,0
+41,Raagini Karpe,+91-8192383506,646428608978,"20, Dutta Path",Bhopal,Madhya Pradesh,14,
+42,Maanas Ram,+91-9848277575,715913541626,"H.No. 59, Sani Path",Kolkata,West Bengal,29,
+43,Irya Korpal,+91-7465775999,132290130737,"H.No. 567
+Prasad Street",Lucknow,Uttar Pradesh,33,1
+44,Kevin Tara,+91-9924385623,363573465167,"07/536
+Kar Chowk",Bengaluru,Karnataka,35,
+45,Vyanjana Merchant,+91-8810367977,222258638849,"51, Grewal Street",New Delhi,Delhi,6,
+46,Jason Ram,+91-8823786068,235575780556,"H.No. 13, Agarwal Ganj",Mumbai,Maharashtra,20,1
+47,Geetika Lal,+91-8652894757,728191463054,"89/499, Palan Road",Kolkata,West Bengal,40,2
+48,Manya Bail,+91-9702021665,666959731446,"77/53, Chaudhary Road",Bengaluru,Karnataka,12,
+49,Bimala Bhat,+91-7102027018,861636426601,"834, Kumer Ganj",Hyderabad,Telangana,18,
+50,Champak Buch,+91-7120791357,536914667584,"30/200, Radhakrishnan Street",Mumbai,Maharashtra,20,
+51,Osha Bakshi,+91-8075577006,199774007452,"882, Cheema Chowk",New Delhi,Delhi,36,
+52,Falan Dugal,+91-8079203231,718124311857,"H.No. 525, Kakar Path",Bhopal,Madhya Pradesh,14,
+53,Rohan Narula,+91-9499821888,249400406186,"H.No. 524
+Gara Chowk",New Delhi,Delhi,37,0
+54,Leena Bakshi,+91-9675705165,659662188120,"422
+Krishnan Circle",Kolkata,West Bengal,40,0
+55,Bimala Agate,+91-8689304230,851282316056,"68/361
+Zacharia Zila",Jaipur,Rajasthan,28,0
+56,Ucchal Thaker,+91-9451528959,650958319872,"H.No. 911, Doshi Marg",Kolkata,West Bengal,29,
+57,Saumya Dara,+91-9072524753,816902341987,"H.No. 42
+Verma Circle",Hyderabad,Telangana,31,0
+58,Patrick Chaudhari,+91-7422315560,232413922918,"431
+Randhawa Path",New Delhi,Delhi,4,1
+59,Tanay Prakash,+91-8685203986,200832117112,"H.No. 04
+Sant",New Delhi,Delhi,27,1
+60,Omya Sunder,+91-8850701861,106960757140,"73, Batra",New Delhi,Delhi,8,
+61,Owen Tripathi,+91-9692691025,490903539476,"198, Goel Ganj",Hyderabad,Telangana,10,
+62,Parth Agrawal,+91-7620381378,277756938163,"004, Walia Zila",Hyderabad,Telangana,18,2
+63,Agastya Subramaniam,+91-8358014457,144796109884,"H.No. 10, Sabharwal Nagar",Bengaluru,Karnataka,39,2
+64,Dayamai Sawhney,+91-8966238442,478071962873,"H.No. 627, Singh Path",Bengaluru,Karnataka,39,
+65,Keya Kothari,+91-7588921079,944420850937,"653
+Atwal Marg",Ahmedabad,Gujarat,32,
+66,Hemangini Dani,+91-8282796011,704716129275,"H.No. 19
+Borra Road",New Delhi,Delhi,37,
+67,Atharv Chawla,+91-9002625008,506970015387,"58/723
+Sane Road",Kolkata,West Bengal,1,1
+68,Manan Dara,+91-9648738107,475844910325,"31, Reddy Ganj",Hyderabad,Telangana,15,1
+69,Raghav Sekhon,+91-7981809647,559050821756,"59/66
+Reddy Road",Bengaluru,Karnataka,39,
+70,Qasim Chatterjee,+91-7797634211,149537427752,"04
+Shenoy Nagar",Hyderabad,Telangana,10,0
+71,Zarna Sekhon,+91-8662100233,504264478439,"012
+Sarna Street",New Delhi,Delhi,8,
+72,Ayaan Nadkarni,+91-7004924312,469777988942,"H.No. 56
+Suresh Circle",Bhopal,Madhya Pradesh,14,2
+73,Ekantika Samra,+91-9643970575,441763655879,"377, Wason",Bengaluru,Karnataka,35,0
+74,Hamsini Luthra,+91-9495438243,744765048747,"58
+Wali Road",Lucknow,Uttar Pradesh,2,1
+75,Qabil Nigam,+91-8012240244,208469888656,"H.No. 767, Jani Chowk",Mumbai,Maharashtra,21,
+76,Udant Kibe,+91-9149134545,255171468678,"56
+Vohra Marg",New Delhi,Delhi,4,1
+77,Aryan Pandit,+91-7906199588,382835602579,"H.No. 302
+Acharya Path",Hyderabad,Telangana,18,
+78,Atharv Mannan,+91-7341892446,872822499845,"23/55
+Sami Path",New Delhi,Delhi,4,
+79,Reyansh Sibal,+91-7191690247,122073427832,"393, Goda Chowk",Hyderabad,Telangana,15,
+80,Unnati Dewan,+91-9489177256,127577324395,"85, Karan",Jaipur,Rajasthan,28,1
+81,Ayushman Chaudhari,+91-9219130021,637490620325,"115, Saran",Lucknow,Uttar Pradesh,33,0
+82,Yashoda Palla,+91-7321563225,270688583276,"16, Saxena Ganj",Mumbai,Maharashtra,23,
+83,Jackson Dutta,+91-8549850964,423032484175,"51/14, Oak Street",Mumbai,Maharashtra,9,1
+84,Yashawini Sridhar,+91-7303802442,277517700905,"H.No. 47, Acharya Path",Ahmedabad,Gujarat,26,1
+85,Yashawini Bal,+91-9394578244,244807689261,"30/19
+Kanda Street",Mumbai,Maharashtra,11,2
+86,Brinda Sen,+91-7630169788,247129159367,"H.No. 081
+Chanda",Kolkata,West Bengal,29,
+87,Tejas Sandal,+91-9385845315,760284172830,"09/18
+Mittal Ganj",Hyderabad,Telangana,10,
+88,Kiaan Salvi,+91-8244736009,103017424453,"52, Pingle Marg",Jaipur,Rajasthan,17,2
+89,Jagrati Kar,+91-8722693646,321418830047,"67/436
+Koshy Zila",New Delhi,Delhi,24,
+90,Qarin Vala,+91-9750152584,286999673763,"54/70, Sangha Path",Bhopal,Madhya Pradesh,7,
+91,Veda Chopra,+91-7793390229,826171627296,"H.No. 38
+Andra Nagar",Lucknow,Uttar Pradesh,33,
+92,Krish Dutta,+91-7462984982,264979376190,"46/817, Chad",Bhopal,Madhya Pradesh,7,
+93,Lajita Choudhary,+91-8929238322,231582527754,"H.No. 182
+Gade Nagar",Lucknow,Uttar Pradesh,3,
+94,Dakshesh Hora,+91-7568431967,673481164359,"93/91, Doctor Marg",Kolkata,West Bengal,19,
+95,Ladli Mander,+91-9736215502,568571926044,"H.No. 557, Mohanty Zila",Bengaluru,Karnataka,12,2
+96,Rushil Malhotra,+91-9882833139,827198206548,"04/507
+Varghese Marg",New Delhi,Delhi,8,0
+97,Advik Vala,+91-8131021141,508938854940,"H.No. 891, Mandal Marg",Kolkata,West Bengal,38,
+98,Kavya Saran,+91-8252714395,885515846780,"56/15, Aggarwal Circle",Kolkata,West Bengal,1,
+99,Anirudh Hegde,+91-8936625052,634373246186,"15/84
+Mital Path",Jaipur,Rajasthan,28,
+100,Vedika Gopal,+91-9038192223,745190527684,"42, Chadha",Hyderabad,Telangana,31,
