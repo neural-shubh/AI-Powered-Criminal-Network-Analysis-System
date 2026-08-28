@@ -6,7 +6,7 @@ who want to know what they're looking at.
 
 ## Live demo
 
-**[Open the live dashboard →](https://ai-powered-criminal-network-analysis-system-7sagw7tdjmwjxtzvvj.streamlit.app/)**
+**[Open the live dashboard ](https://ai-powered-criminal-network-analysis-system-7sagw7tdjmwjxtzvvj.streamlit.app/)**
 
 ## What this is
 
