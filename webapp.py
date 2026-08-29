@@ -5,7 +5,7 @@ graph, runs centrality/community/anomaly analytics, and renders an
 interactive network visualization with filters.
 
 Run locally:
-    streamlit run app.py
+    streamlit run webapp.py
 Deploy: push to GitHub, connect repo on Streamlit Community Cloud.
 """
 
@@ -34,7 +34,7 @@ REQUIRED = ["persons.csv", "calls.csv", "transactions.csv", "fir_text.csv"]
 
 @st.cache_data(show_spinner=False)
 def load_default():
-    """Looks for CSVs sitting next to app.py. Returns None if missing."""
+    """Looks for CSVs sitting next to webapp.py. Returns None if missing."""
     dfs = {}
     for name in REQUIRED:
         try:
@@ -67,7 +67,7 @@ if dfs is None or not all(name in dfs for name in REQUIRED):
     st.title("Criminal Network Analysis")
     st.warning(
         "Waiting for data. Place persons.csv, calls.csv, transactions.csv, "
-        "fir_text.csv next to app.py, or upload them in the sidebar."
+        "fir_text.csv next to webapp.py, or upload them in the sidebar."
     )
     st.stop()
 
@@ -414,33 +414,28 @@ st.dataframe(pd.DataFrame(comm_rows).sort_values("size", ascending=False), use_c
 # Explainability: search-by-name trace-back
 # ----------------------------------------------------------------------
 st.subheader("Search a person")
-st.caption("Search by name. Every result traces back to the underlying call, transaction, and FIR records.")
+st.caption("Start typing a name — matching people appear below to pick from.")
 
 name_to_id = {G.nodes[n].get("name", str(n)): n for n in G.nodes()}
 all_names = list(name_to_id.keys())
 
 search_query = st.text_input("Enter a name", "", placeholder="e.g. Rakesh Kumar")
 
-selected_name, selected_id, match_score = None, None, None
+selected_name, selected_id = None, None
 
 if search_query.strip():
-    exact = [n for n in all_names if n.lower() == search_query.strip().lower()]
-    if exact:
-        selected_name, match_score = exact[0], 100
-    else:
-        match = process.extractOne(search_query, all_names, scorer=fuzz.WRatio, score_cutoff=70)
-        if match:
-            selected_name, match_score = match[0], match[1]
-
-    if selected_name:
+    suggestions = process.extract(search_query, all_names, scorer=fuzz.WRatio, limit=5, score_cutoff=60)
+    if suggestions:
+        options = [f"{name} ({score:.0f}% match)" for name, score, _ in suggestions]
+        picked = st.radio("Matching people", options, label_visibility="collapsed")
+        selected_name = suggestions[options.index(picked)][0]
         selected_id = name_to_id[selected_name]
     else:
         st.warning(f'No record found for "{search_query}".')
+else:
+    st.caption("Type a name above to search the case database.")
 
 if selected_id is not None:
-    if match_score is not None and match_score < 100:
-        st.caption(f'Closest match: **{selected_name}** ({match_score:.0f}% match to "{search_query}")')
-
     person_flags = []
     if selected_id in betweenness:
         person_flags.append(f"betweenness rank: {sorted(betweenness, key=betweenness.get, reverse=True).index(selected_id) + 1} of {len(betweenness)}")
@@ -461,15 +456,13 @@ if selected_id is not None:
     ec2.metric("Transactions", len(evid_txns))
     ec3.metric("FIR mentions", len(evid_firs))
 
-    with st.expander(f"Source records for {selected_name}", expanded=False):
+    with st.expander(f"Source records for {selected_name}", expanded=True):
         st.markdown("**Calls**")
         st.dataframe(evid_calls, use_container_width=True) if len(evid_calls) else st.caption("None.")
         st.markdown("**Transactions**")
         st.dataframe(evid_txns, use_container_width=True) if len(evid_txns) else st.caption("None.")
         st.markdown("**FIR complaints**")
         st.dataframe(evid_firs[["fir_id", "date", "complainant_id", "accused_id", "narrative"]], use_container_width=True) if len(evid_firs) else st.caption("None.")
-elif not search_query.strip():
-    st.caption("Type a name above to search the case database.")
 
 # ----------------------------------------------------------------------
 # Export
