@@ -1,0 +1,201 @@
+location_id,state,city,latitude,longitude
+1,Delhi,New Delhi,8.725312,75.97585
+2,Tamil Nadu,Chennai,12.0466,70.97236
+3,Telangana,Hyderabad,10.521226,80.235733
+4,Maharashtra,Mumbai,10.717162,74.747166
+5,Madhya Pradesh,Bhopal,8.769543,73.766292
+6,Telangana,Hyderabad,20.166075,81.027062
+7,Uttar Pradesh,Lucknow,31.473483,68.188464
+8,Karnataka,Bengaluru,28.246042,77.867265
+9,Karnataka,Bengaluru,14.244099,90.14133
+10,Delhi,New Delhi,10.689629,70.804775
+11,Gujarat,Ahmedabad,25.508055,91.40672
+12,Rajasthan,Jaipur,23.550615,96.220357
+13,West Bengal,Kolkata,10.285206,76.50217
+14,Madhya Pradesh,Bhopal,33.678101,78.487416
+15,Tamil Nadu,Chennai,28.432583,69.328907
+16,Tamil Nadu,Chennai,30.418982,96.571424
+17,Tamil Nadu,Chennai,33.128026,79.023661
+18,Rajasthan,Jaipur,26.434849,78.580133
+19,Gujarat,Ahmedabad,18.30285,87.43508
+20,Delhi,New Delhi,25.664799,72.963021
+21,Tamil Nadu,Chennai,12.738672,79.004208
+22,Telangana,Hyderabad,14.36884,77.404199
+23,Maharashtra,Mumbai,14.642394,68.930907
+24,Gujarat,Ahmedabad,19.633779,69.91947
+25,Madhya Pradesh,Bhopal,33.414661,77.125659
+26,Rajasthan,Jaipur,19.473325,94.52188
+27,Rajasthan,Jaipur,12.143276,72.049279
+28,Telangana,Hyderabad,23.630341,89.663401
+29,West Bengal,Kolkata,34.036864,79.582615
+30,Tamil Nadu,Chennai,36.922448,72.011621
+31,Rajasthan,Jaipur,10.636373,69.366375
+32,Delhi,New Delhi,12.432398,72.639478
+33,West Bengal,Kolkata,25.295862,79.158252
+34,Madhya Pradesh,Bhopal,36.88752,83.344316
+35,Telangana,Hyderabad,32.962611,68.33295
+36,Delhi,New Delhi,27.769601,83.57214
+37,Uttar Pradesh,Lucknow,30.289363,77.865089
+38,Uttar Pradesh,Lucknow,20.608192,81.157987
+39,Uttar Pradesh,Lucknow,36.184755,90.096904
+40,Telangana,Hyderabad,34.466207,93.245039
+41,Uttar Pradesh,Lucknow,32.408411,82.722224
+42,Tamil Nadu,Chennai,12.432339,90.112813
+43,Telangana,Hyderabad,35.651493,94.750588
+44,Maharashtra,Mumbai,25.369393,82.169566
+45,Delhi,New Delhi,34.94386,93.482934
+46,Uttar Pradesh,Lucknow,14.944117,74.985276
+47,Madhya Pradesh,Bhopal,35.461534,70.48395
+48,Rajasthan,Jaipur,31.664674,96.36155
+49,Telangana,Hyderabad,30.209198,71.723352
+50,Rajasthan,Jaipur,35.458612,72.788682
+51,Telangana,Hyderabad,33.300558,80.271
+52,Tamil Nadu,Chennai,34.938491,89.902691
+53,Tamil Nadu,Chennai,28.67552,79.570777
+54,Gujarat,Ahmedabad,20.704902,83.009699
+55,Delhi,New Delhi,15.189263,69.856751
+56,Maharashtra,Mumbai,25.060953,74.673327
+57,Tamil Nadu,Chennai,8.208534,88.527387
+58,Maharashtra,Mumbai,14.639312,94.25718
+59,Gujarat,Ahmedabad,10.054863,74.902134
+60,Rajasthan,Jaipur,14.212867,71.837044
+61,Madhya Pradesh,Bhopal,24.710138,75.04692
+62,Rajasthan,Jaipur,31.417413,73.521888
+63,Delhi,New Delhi,27.1105,78.274629
+64,West Bengal,Kolkata,21.543715,89.1432
+65,Delhi,New Delhi,9.757768,89.118194
+66,Delhi,New Delhi,15.211034,73.516058
+67,Rajasthan,Jaipur,12.065287,73.321153
+68,Rajasthan,Jaipur,15.244387,94.774702
+69,Rajasthan,Jaipur,31.432645,92.82304
+70,Delhi,New Delhi,9.467062,96.979192
+71,Maharashtra,Mumbai,36.100891,94.864643
+72,Tamil Nadu,Chennai,12.823022,82.083593
+73,Tamil Nadu,Chennai,33.074861,94.170843
+74,Karnataka,Bengaluru,18.99022,96.573956
+75,Uttar Pradesh,Lucknow,34.869024,90.768751
+76,Uttar Pradesh,Lucknow,20.267217,95.762212
+77,Telangana,Hyderabad,27.194268,82.113471
+78,Tamil Nadu,Chennai,16.604527,96.092572
+79,Madhya Pradesh,Bhopal,29.336378,69.76777
+80,Gujarat,Ahmedabad,9.657793,84.94115
+81,Telangana,Hyderabad,34.662227,83.402658
+82,Maharashtra,Mumbai,35.862588,70.323232
+83,Karnataka,Bengaluru,9.987119,69.970865
+84,Tamil Nadu,Chennai,19.709491,95.306288
+85,Madhya Pradesh,Bhopal,15.140245,85.241055
+86,Madhya Pradesh,Bhopal,10.377519,87.063822
+87,Madhya Pradesh,Bhopal,23.160699,95.106481
+88,Tamil Nadu,Chennai,27.422053,77.111332
+89,Uttar Pradesh,Lucknow,19.47779,87.479016
+90,Uttar Pradesh,Lucknow,21.259513,94.941532
+91,Delhi,New Delhi,8.270148,86.013618
+92,Madhya Pradesh,Bhopal,36.886797,70.124561
+93,Tamil Nadu,Chennai,22.670656,71.841241
+94,Gujarat,Ahmedabad,33.545061,93.498837
+95,Gujarat,Ahmedabad,16.264634,80.707353
+96,Telangana,Hyderabad,28.402658,85.738655
+97,Telangana,Hyderabad,8.22687,91.69602
+98,Uttar Pradesh,Lucknow,35.020925,71.004009
+99,Karnataka,Bengaluru,15.669512,93.801669
+100,Telangana,Hyderabad,12.507989,76.170932
+101,Tamil Nadu,Chennai,28.810753,73.904322
+102,Uttar Pradesh,Lucknow,22.656863,75.282516
+103,Maharashtra,Mumbai,10.676656,80.283697
+104,Uttar Pradesh,Lucknow,9.278516,77.67314
+105,Karnataka,Bengaluru,26.476288,75.596703
+106,Rajasthan,Jaipur,23.998732,80.402921
+107,Maharashtra,Mumbai,11.244343,95.406477
+108,Karnataka,Bengaluru,23.822118,92.203256
+109,Madhya Pradesh,Bhopal,24.023228,80.463815
+110,Maharashtra,Mumbai,16.939492,94.070463
+111,Maharashtra,Mumbai,34.068814,74.09222
+112,Tamil Nadu,Chennai,27.341069,78.25668
+113,Telangana,Hyderabad,33.639906,79.784944
+114,Madhya Pradesh,Bhopal,29.734851,94.847151
+115,Tamil Nadu,Chennai,33.073565,96.309975
+116,Karnataka,Bengaluru,33.56107,68.718804
+117,Gujarat,Ahmedabad,30.689208,79.939682
+118,Tamil Nadu,Chennai,15.737366,90.833861
+119,Delhi,New Delhi,19.09371,69.123014
+120,Rajasthan,Jaipur,14.450578,91.681012
+121,Rajasthan,Jaipur,18.140094,91.795555
+122,Tamil Nadu,Chennai,14.464783,87.140962
+123,West Bengal,Kolkata,17.519597,93.066235
+124,Uttar Pradesh,Lucknow,18.183238,82.772765
+125,Telangana,Hyderabad,17.603346,68.800416
+126,Uttar Pradesh,Lucknow,13.178467,95.913495
+127,Uttar Pradesh,Lucknow,9.109459,85.300566
+128,Gujarat,Ahmedabad,29.127807,77.096642
+129,Madhya Pradesh,Bhopal,36.54284,71.353728
+130,Madhya Pradesh,Bhopal,13.512284,69.287209
+131,West Bengal,Kolkata,8.049047,94.84168
+132,Telangana,Hyderabad,27.918857,95.26763
+133,Tamil Nadu,Chennai,18.562423,70.029241
+134,Gujarat,Ahmedabad,26.071507,87.238237
+135,Delhi,New Delhi,28.872874,76.709346
+136,Uttar Pradesh,Lucknow,27.339894,77.459304
+137,Uttar Pradesh,Lucknow,24.077962,73.563363
+138,West Bengal,Kolkata,27.64222,94.181361
+139,Madhya Pradesh,Bhopal,24.504052,79.77618
+140,Maharashtra,Mumbai,16.812374,74.095298
+141,Madhya Pradesh,Bhopal,25.593186,77.345228
+142,Rajasthan,Jaipur,20.822634,74.197341
+143,Rajasthan,Jaipur,31.018327,95.835128
+144,Karnataka,Bengaluru,27.106672,76.229806
+145,Madhya Pradesh,Bhopal,17.720459,91.73428
+146,Tamil Nadu,Chennai,27.511074,74.514579
+147,Tamil Nadu,Chennai,12.273265,69.340198
+148,Rajasthan,Jaipur,25.726945,90.286191
+149,Rajasthan,Jaipur,20.018789,86.263196
+150,Tamil Nadu,Chennai,28.832032,79.135376
+151,West Bengal,Kolkata,15.075549,87.025682
+152,Maharashtra,Mumbai,33.887135,92.952776
+153,Delhi,New Delhi,30.574192,74.346393
+154,Telangana,Hyderabad,21.471947,84.164768
+155,Delhi,New Delhi,21.237393,91.241081
+156,Telangana,Hyderabad,36.648881,85.268117
+157,Rajasthan,Jaipur,25.766917,88.858945
+158,Telangana,Hyderabad,20.375482,94.298787
+159,Rajasthan,Jaipur,34.019035,89.566008
+160,Rajasthan,Jaipur,21.052023,89.801527
+161,Uttar Pradesh,Lucknow,30.208597,83.117695
+162,Tamil Nadu,Chennai,15.963326,70.247017
+163,Uttar Pradesh,Lucknow,14.800314,77.739579
+164,Telangana,Hyderabad,10.336752,72.374089
+165,West Bengal,Kolkata,28.124545,88.486155
+166,Delhi,New Delhi,20.031169,77.59556
+167,Rajasthan,Jaipur,20.057453,73.998197
+168,West Bengal,Kolkata,19.294828,90.324077
+169,Maharashtra,Mumbai,32.845229,90.202243
+170,West Bengal,Kolkata,21.832412,95.339508
+171,Uttar Pradesh,Lucknow,29.850779,92.749991
+172,West Bengal,Kolkata,23.608396,89.304388
+173,Madhya Pradesh,Bhopal,34.036529,82.158655
+174,Uttar Pradesh,Lucknow,20.639243,68.84172
+175,Gujarat,Ahmedabad,27.397335,91.146127
+176,Karnataka,Bengaluru,32.374664,94.666707
+177,Madhya Pradesh,Bhopal,23.489585,94.300937
+178,Madhya Pradesh,Bhopal,24.367368,68.785959
+179,West Bengal,Kolkata,11.935285,81.389255
+180,Maharashtra,Mumbai,15.544533,77.493227
+181,Rajasthan,Jaipur,17.478528,90.075662
+182,West Bengal,Kolkata,16.069442,95.584919
+183,West Bengal,Kolkata,15.315874,70.375281
+184,Maharashtra,Mumbai,29.721704,69.510483
+185,Gujarat,Ahmedabad,14.502443,69.989933
+186,Maharashtra,Mumbai,29.872763,95.53874
+187,Tamil Nadu,Chennai,32.337637,86.018734
+188,Tamil Nadu,Chennai,11.660408,87.414306
+189,Madhya Pradesh,Bhopal,35.484954,81.485986
+190,Uttar Pradesh,Lucknow,30.240045,72.865885
+191,Madhya Pradesh,Bhopal,35.948308,88.83236
+192,Karnataka,Bengaluru,35.976902,71.134864
+193,Maharashtra,Mumbai,34.937728,84.698105
+194,West Bengal,Kolkata,19.502979,88.735426
+195,Delhi,New Delhi,25.170838,92.086577
+196,Tamil Nadu,Chennai,10.955138,90.401946
+197,Madhya Pradesh,Bhopal,31.360311,91.090589
+198,Madhya Pradesh,Bhopal,30.696425,78.068909
+199,West Bengal,Kolkata,27.184119,69.999745
+200,Gujarat,Ahmedabad,8.366912,80.181703
