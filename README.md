@@ -10,9 +10,6 @@ automatically analyzes structured and unstructured crime-related data to
 uncover criminal networks, identify key influencers, detect suspicious
 patterns, and provide actionable intelligence for investigators."*
 
-## Live demo
-
-`[add your Streamlit Community Cloud link here after deploying]`
 
 ## Architecture
 
